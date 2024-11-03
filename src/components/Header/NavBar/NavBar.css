@@ -1,0 +1,20 @@
+.text-style {
+    text-decoration: none;
+    color: #212121;
+}
+
+.text-style:hover {
+    text-decoration: none;
+    color: #0544e3;
+}
+
+.text-style-fullscrn {
+    background-color: #0544e3;
+}
+
+.text-style-fullscrn:hover {
+    background-color: #1253f6;
+}
+/* .MuiPaper-root-MuiAppBar-root {
+    background-color: #541ee9;
+} */
